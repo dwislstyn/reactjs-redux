@@ -1,0 +1,123 @@
+{
+  "users":[
+    {
+      "id": 1,
+      "nama": "Dwi Sulistyo",
+      "alamat": "Bekasi",
+      "umur": 23,
+      "nohp": "08111102723"
+    },
+    {
+      "id": 2,
+      "nama": "Andia",
+      "alamat": "Bekasi",
+      "umur": 23,
+      "nohp": "08111102723"
+    },
+    {
+      "id": 3,
+      "nama": "Budi",
+      "alamat": "Trenggalek",
+      "umur": 23,
+      "nohp": "08111102723"
+    },
+    {
+      "id": 4,
+      "nama": "Budi",
+      "alamat": "Trenggalek",
+      "umur": 23,
+      "nohp": "08111102723"
+    },
+    {
+      "id": 5,
+      "nama": "Budi",
+      "alamat": "Trenggalek",
+      "umur": 23,
+      "nohp": "08111102723"
+    },
+    {
+      "id": 6,
+      "nama": "Budi",
+      "alamat": "Trenggalek",
+      "umur": 23,
+      "nohp": "08111102723"
+    },
+    {
+      "id": 7,
+      "nama": "Budi",
+      "alamat": "Trenggalek",
+      "umur": 23,
+      "nohp": "08111102723"
+    },
+    {
+      "id": 8,
+      "nama": "Budi",
+      "alamat": "Trenggalek",
+      "umur": 23,
+      "nohp": "08111102723"
+    },
+    {
+      "id": 9,
+      "nama": "Budi",
+      "alamat": "Trenggalek",
+      "umur": 23,
+      "nohp": "08111102723"
+    },
+    {
+      "id": 10,
+      "nama": "Budi",
+      "alamat": "Trenggalek",
+      "umur": 23,
+      "nohp": "08111102723"
+    },
+    {
+      "id": 11,
+      "nama": "Budi",
+      "alamat": "Trenggalek",
+      "umur": 23,
+      "nohp": "08111102723"
+    },
+    {
+      "id": 12,
+      "nama": "Budi",
+      "alamat": "Trenggalek",
+      "umur": 23,
+      "nohp": "08111102723"
+    },
+    {
+      "id": 13,
+      "nama": "Budi",
+      "alamat": "Trenggalek",
+      "umur": 23,
+      "nohp": "08111102723"
+    },
+    {
+      "id": 14,
+      "nama": "Budi",
+      "alamat": "Trenggalek",
+      "umur": 23,
+      "nohp": "08111102723"
+    },
+    {
+      "id": 15,
+      "nama": "Budi",
+      "alamat": "Trenggalek",
+      "umur": 23,
+      "nohp": "08111102723"
+    },
+    {
+      "id": 16,
+      "nama": "Budi",
+      "alamat": "Trenggalek",
+      "umur": 23,
+      "nohp": "08111102723"
+    },
+    {
+      "id": 17,
+      "nama": "Budi",
+      "alamat": "Trenggalek",
+      "umur": 23,
+      "nohp": "08111102723"
+    }
+  ]
+}
